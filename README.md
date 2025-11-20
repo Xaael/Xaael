@@ -53,4 +53,34 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Xaael&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&_
+    src="https://github-readme-stats.vercel.app/api?username=Xaael&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" 
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaael&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" 
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Xaael&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&hide_border=true" 
+    alt="Contribution Graph"
+  />
+</p>
+
+---
+
+## 💾 Current Focus
+
+- 🧩 Sharper TypeScript patterns in Vue apps  
+- 🧪 Experimenting with DX tooling & automation  
+- 🎮 Mixing code with game-like, retro UI ideas  
+
+---
+
+<p align="center">
+  <strong>“Commit in silence. Let the neon speak.”</strong>
+</p>
