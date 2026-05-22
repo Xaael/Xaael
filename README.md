@@ -1,82 +1,18 @@
-<!-- Neon / Glitch banner -->
-<p align="center">
-  <img src="./media/neon-banner.gif" alt="Neon cyberpunk banner" width="100%" />
-</p>
-
-<h1 align="center">⚡ Xaael — Cyberpunk Frontend Alchemist ⚡</h1>
-
-<p align="center">
-  <em>Crafting interfaces that feel like hacking a neon mainframe.</em>
-</p>
-
----
-
-<!-- Avatar + quick badges row -->
-<p align="center">
-  <img src="./media/neon-avatar.gif" alt="Neon animated avatar" width="140" style="border-radius: 50%;"/>
-</p>
-
-### 💿 Core Stack — Neon Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000&color=00FFFF" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000000&color=00FFFF" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000&color=00FFFF" alt="TypeScript"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000000&color=FF00FF" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000000&color=FF00FF" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=000000&color=FF00FF" alt="Vite"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000&color=00FF00" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000000&color=00FF00" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000&color=00FF00" alt="Git"/>
-</p>
-
----
-
-## 🛠 Tech Arsenal — Detailed View
-
-<table align="center">
+<table width="100%" border="0">
 <tr>
-<td align="center" width="33%">
+<td width="60%" valign="top">
 
-### 🎨 Frontend Core
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-</p>
+<sub>FRONTEND  ·  2026</sub>
+
+# Building interfaces that feel<br/><em>considered.</em>
+
+A senior frontend engineer working across Vue, Nuxt, React, and TypeScript. Currently shipping a multi-site web stack, a Unity 6 game, and a redesigned design portfolio.
 
 </td>
-<td align="center" width="33%">
+<td width="40%" valign="top" align="right">
 
-### ⚙️ Backend & Data
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express"/>
-</p>
-
-</td>
-<td align="center" width="33%">
-
-### 🔧 Dev Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" alt="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" alt="Webpack"/>
-</p>
+<sub>XAAEL</sub><br/>
+<sub>VIEW WORK : <a href="https://github.com/Xaael">@xaael</a></sub>
 
 </td>
 </tr>
@@ -84,136 +20,83 @@
 
 ---
 
-## 🌐 What I Build
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### ⚡ Fast & Reactive
-- Vue 3 Composition API apps
-- TypeScript-first architecture
-- State management (Pinia/Vuex)
-- Real-time data synchronization
-
-</td>
-<td width="50%">
-
-### 🎨 Retro-Futuristic UI
-- Terminal-inspired interfaces
-- Neon glow effects & animations
-- Grid-based cyberpunk layouts
-- Dark mode native designs
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💾 Full-Stack Ready
-- RESTful API integration
-- SQL database design
-- Authentication & authorization
-- Real backend connections
-
-</td>
-<td width="50%">
-
-### 🧠 Clean Architecture
-- Component-driven development
-- Modular, maintainable code
-- No callback hell
-- DX-focused tooling
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Stats in the Neon Grid
-
-<div align="center">
-
-### 🎯 Quick Stats
+## 01  ·  Currently
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/⭐_Total_Stars-Dynamic-00FFFF?style=for-the-badge&labelColor=000000" alt="Stars"/>
-<br/>
-<img src="https://img.shields.io/badge/🔥_Commit_Streak-Active-FF00FF?style=for-the-badge&labelColor=000000" alt="Streak"/>
+<td valign="top" width="33%">
+
+<sub>FLAGSHIP</sub>
+
+### Design <em>Portfolio</em>
+
+A digital gallery of case studies. React + Vite. Built around an editorial dark design system: obsidian foundations, luminance over drop shadow, Fraunces italic display, cyan / indigo / purple atmospheric accents.
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-Growing-00FF00?style=for-the-badge&labelColor=000000" alt="Repos"/>
-<br/>
-<img src="https://img.shields.io/badge/💻_Primary_Lang-JavaScript-00FFFF?style=for-the-badge&labelColor=000000" alt="Language"/>
+<td valign="top" width="33%">
+
+<sub>PRODUCT</sub>
+
+### <em>Scrap</em>Net
+
+A Unity 6 game on URP. Block-based modular building, trim-sheet UV economy, modular flora pipeline, faction-driven shape language.
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀_Projects-Vue.js_Apps-FF00FF?style=for-the-badge&labelColor=000000" alt="Projects"/>
-<br/>
-<img src="https://img.shields.io/badge/🎨_Focus-Frontend-00FF00?style=for-the-badge&labelColor=000000" alt="Focus"/>
+<td valign="top" width="33%">
+
+<sub>WEB STACK</sub>
+
+### Nuxt <em>Network</em>
+
+Production Nuxt 3 sites across Supabase, D1, Drizzle, and Prisma. Shared TypeScript primitives, deployed on Cloudflare Pages.
+
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+## 02  ·  Stack
 
-<div align="center">
+<sub>PRIMARY  ·  FRAMEWORK</sub>
 
-### 📈 Contribution Activity
+![TypeScript](https://img.shields.io/badge/TypeScript-0e0e0e?style=flat-square&logo=typescript&logoColor=00D4FF&labelColor=0e0e0e)
+![Vue](https://img.shields.io/badge/Vue%203-0e0e0e?style=flat-square&logo=vue.js&logoColor=00D4FF&labelColor=0e0e0e)
+![Nuxt](https://img.shields.io/badge/Nuxt-0e0e0e?style=flat-square&logo=nuxt.js&logoColor=00D4FF&labelColor=0e0e0e)
+![React](https://img.shields.io/badge/React-0e0e0e?style=flat-square&logo=react&logoColor=00D4FF&labelColor=0e0e0e)
 
-```
-  📅 Most Active: Evenings & Weekends
-  🔨 Building: Vue.js applications
-  🧠 Learning: Advanced TypeScript patterns
-  ⚡ Status: Actively coding
-```
+<sub>SECONDARY  ·  TOOLING</sub>
 
-<img src="https://img.shields.io/badge/🌐_GitHub-Xaael-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Profile"/>
+![Vite](https://img.shields.io/badge/Vite-0e0e0e?style=flat-square&logo=vite&logoColor=5670D5&labelColor=0e0e0e)
+![Tailwind](https://img.shields.io/badge/Tailwind-0e0e0e?style=flat-square&logo=tailwindcss&logoColor=5670D5&labelColor=0e0e0e)
+![Pinia](https://img.shields.io/badge/Pinia-0e0e0e?style=flat-square&logo=pinia&logoColor=5670D5&labelColor=0e0e0e)
+![Radix](https://img.shields.io/badge/Radix%20UI-0e0e0e?style=flat-square&logo=radixui&logoColor=5670D5&labelColor=0e0e0e)
 
-</div>
+<sub>TERTIARY  ·  INFRA</sub>
+
+![Supabase](https://img.shields.io/badge/Supabase-0e0e0e?style=flat-square&logo=supabase&logoColor=A758B1&labelColor=0e0e0e)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-0e0e0e?style=flat-square&logo=cloudflare&logoColor=A758B1&labelColor=0e0e0e)
+![Postgres](https://img.shields.io/badge/Postgres-0e0e0e?style=flat-square&logo=postgresql&logoColor=A758B1&labelColor=0e0e0e)
+![Unity](https://img.shields.io/badge/Unity%206-0e0e0e?style=flat-square&logo=unity&logoColor=A758B1&labelColor=0e0e0e)
 
 ---
 
-<div align="center">
+## 03  ·  How I <em>Work</em>
 
-### 💎 Language Distribution
-
-| Language | Usage | Level |
-|:--------:|:-----:|:-----:|
-| 🟨 **JavaScript** | ████████████░ 80% | Expert |
-| 🟦 **TypeScript** | ██████████░░░ 70% | Advanced |
-| 🟩 **HTML/CSS** | ████████████░ 85% | Expert |
-| 🟪 **SQL** | ████████░░░░░ 60% | Intermediate |
-| 🟥 **Node.js** | ████████░░░░░ 65% | Advanced |
-
-</div>
-
----
-
-## 💾 Current Focus
-
-<table align="center">
+<table width="100%" border="0">
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🧩 Technical Growth
-- Advanced TypeScript patterns in Vue
-- Performance optimization techniques
-- Modern state management patterns
-- Component library architecture
+<sub>METHOD</sub>
+
+Plan first for non-trivial changes. Verify after every edit; build and typecheck pass before anything is called done. Small reviewable commits. Root causes over silenced errors.
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🧪 Experimentation
-- DX tooling & automation
-- Build tool optimization (Vite)
-- Game-like UI interactions
-- Procedural visual effects
+<sub>TASTE</sub>
+
+Asymmetric grids over symmetry. Luminance over drop shadow. Editorial typography. Comments explain <em>why</em>, not <em>what</em>. Restraint over decoration.
 
 </td>
 </tr>
@@ -221,21 +104,4 @@
 
 ---
 
-## 🎮 Side Quests
-
-- 🕹️ **Retro Gaming UI**: Building terminal-style interfaces
-- 🌐 **Open Source**: Contributing to Vue ecosystem
-- 📚 **Learning**: WebGL, Canvas animations, GLSL shaders
-- 🎨 **Design**: Exploring cyberpunk/synthwave aesthetics
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Commit%20in%20silence.%20Let%20the%20neon%20speak.&fontSize=16&fontColor=00FFFF&animation=twinkling" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xaael&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+<sub>XAAEL  ·  BUILT IN THE QUIET</sub>
